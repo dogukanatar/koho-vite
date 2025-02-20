@@ -1,10 +1,30 @@
-# React + TypeScript + Vite
+# Koho Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![Deployment Status](https://img.shields.io/badge/Deployment-Ready-success)](https://koho-vite-9p53.vercel.app)
 
-While this project uses React, Vite supports many popular JS frameworks. [See all the supported frameworks](https://vitejs.dev/guide/#scaffolding-your-first-vite-project).
+A React application built with Vite and TypeScript.
 
-## Deploy Your Own
+## Live Demo
+[View Live Demo](https://koho-vite-9p53.vercel.app)
+
+## Development
+
+```bash
+# Install dependencies
+npm install
+
+# Run development server
+npm run dev
+
+# Build for production
+npm run build
+```
+
+## Deployment
+
+This project is configured for deployment on Vercel.
+
+### Deploy Your Own
 
 Deploy your own Vite project with Vercel.
 
